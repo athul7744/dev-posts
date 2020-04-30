@@ -11,6 +11,24 @@
             "title": "DEV",
             "icon": "fa-dev",
             "url": "https://dev.to/athul7744"
+        },
+        {
+            "type": "medium",
+            "title": "Medium",
+            "icon": "fa-medium",
+            "url": "https://medium.com/@athul7744"
+        },
+        {
+            "type": "twitter",
+            "title": "Twitter",
+            "icon": "fa-twitter",
+            "url": "https://twitter.com/athul7744"
+        },
+        {
+            "type": "instagram",
+            "title": "Instagram",
+            "icon": "fa-instagram",
+            "url": "https://instagram.com/athulthephotographer"
         }
     ]
 }
