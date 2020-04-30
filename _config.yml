@@ -1,4 +1,4 @@
-title: Stackbit Fjord Theme
+title: Posts by Athul
 baseurl: /
 permalink: '/:title/'
 collections:
@@ -6,7 +6,7 @@ collections:
     permalink: '/posts/:title/'
 header:
   title: Athul Anil Kumar
-  tagline: Minimal and clean blog theme
+  tagline: Full Stack Developer. Interested in Blockchain and Machine Learning
   bg_img: images/header-bg.jpg
   has_nav: true
   has_social: true
